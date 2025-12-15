@@ -1,7 +1,7 @@
 {
     "app-id" : "com.github.Alcaro.Flips",
     "runtime" : "org.gnome.Platform",
-    "runtime-version" : "46",
+    "runtime-version" : "49",
     "sdk" : "org.gnome.Sdk",
     "command" : "flips",
     "finish-args" : [
@@ -28,8 +28,8 @@
             "sources" : [
                 {
                     "type" : "git",
-                    "url" : "https://github.com/Alcaro/Flips.git",
-                    "branch" : "6caac470f7fc096b0c5fdc374b65954f8bac5b16"
+                    "url" : "https://git.disroot.org/Sir_Walrus/Flips",
+                    "branch" : "e7459ca723821f8d12b82a5827f5f796a96b91ef"
                 }
             ]
         }
